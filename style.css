@@ -1,0 +1,65 @@
+.div1{
+	position: relative;
+	margin-top: -20px;
+	background: black;
+	line-height: 5px;
+	height: 70px;
+
+}
+#im1{
+	position: relative;
+	top: -105px;
+	left: 30px;
+}
+#id1{
+	position: relative;
+	bottom: -30px;
+	left: 200px;
+	color: white;
+	font-weight: bold;
+	font-size: 125%;
+
+}
+#id2{
+	position: relative;
+	top: -20px;
+	left: 300px;
+	color: white;
+	font-weight: bold;
+	font-size: 125%;
+
+}
+#id3{
+	position: relative;
+	top: -60px;
+	left: 400px;
+	color: white;
+	font-weight: bold;
+	font-size: 125%;
+
+}
+.fa-search{
+	position: relative;
+	top: -100px;
+	left: 1200px;
+	color: white;
+	font-weight: bold;
+
+}
+.fa-shopping-cart{
+	position: relative;
+	top: -100px;
+	left: 1150px;
+	color: white;
+	font-weight: bold;
+
+}
+.fa-align-justify{
+	position: relative;
+	top: -100px;
+	left: 1200px;
+	color: white;
+	font-weight: bold;
+
+
+}
